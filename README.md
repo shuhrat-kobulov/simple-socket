@@ -12,9 +12,9 @@ This Python script facilitates UDP client-server communication through sockets. 
 - Python 3.x installed
 
 ### Running the Server
-python script_name.py server -p PORT
+```python script_name.py server -p PORT```
 
 
 ### Running the Client
-python script_name.py client -p PORT
+```python script_name.py client -p PORT```
 
